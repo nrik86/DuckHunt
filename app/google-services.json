@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557666942265",
+    "firebase_url": "https://duckhunt-ec166.firebaseio.com",
+    "project_id": "duckhunt-ec166",
+    "storage_bucket": "duckhunt-ec166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557666942265:android:3de3f84d4a7adcbe",
+        "android_client_info": {
+          "package_name": "com.enriquejimenez.duckhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557666942265-1sk8k2ghu5bf3jc38o0m741b6f0nhrho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enriquejimenez.duckhunt",
+            "certificate_hash": "0b6e2333eaae9c6665093742e7ed70e55c3a9a2a"
+          }
+        },
+        {
+          "client_id": "557666942265-c5kh7bupsp13s5i4su3banplvgr5teuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCLuqbdx6hHR4B9h4_SeuNVssEH5RM9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557666942265-c5kh7bupsp13s5i4su3banplvgr5teuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
